@@ -1,1 +1,1 @@
-This is te README
+This is the README
